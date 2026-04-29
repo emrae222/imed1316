@@ -35,20 +35,19 @@ p {
 }
 
 .paragraph-one {
-    position: relative;
-    margin-top: 30px;
-    font-family: var(--fontFamily) !important;
+  position: relative;
+  margin-top: 30px;
+  font-family: var(--fontFamily) !important;
+  font-size: 1.2rem;
+  line-height: 1.7;
 }
-.paragraph-one p {
-  overflow: hidden;
-}
+
 .paragraph-one-img {
   float: right;
   width: 250px;
-  max-width: 40%;
+  max-width: 35%;
   height: auto;
   margin: 0 0 15px 20px;
-  display: block;
 }
 
 
