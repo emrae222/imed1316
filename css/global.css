@@ -13,13 +13,13 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #425461;
+--primaryColor: #0f2e1d;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #676798;
+--secondaryColor: #1e7e34;
 
 /* var(--accentColor) !important; */
---accentColor: #3A5555;
+--accentColor: #28a745;
 
 /* var(--fontFamily) !important; */
 --fontFamily: "Oswald", sans-serif;
