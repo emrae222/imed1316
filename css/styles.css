@@ -56,7 +56,7 @@ p {
   background-color: var(--secondaryColor) !important;
   clip-path: none;
   position: relative;
-  margin-top: -5px;
+  margin-top: 30px;
 }
 
 .cropped {
